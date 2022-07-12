@@ -24,10 +24,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "portfolio/node_modules/bootstrap/dist/css/bootstrap.css"
+              "portfolio/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": [
-              "portfolio/node_modules/bootstrap/dist/js/bootstrap.js"
+              "portfolio/node_modules/bootstrap/dist/js/bootstrap.min.js"
             ]
           },
           "configurations": {
